@@ -1,6 +1,9 @@
 # ISD-2024
 Курс "Методы и средства проектирования ИС и Т"
 
+<img src="https://img.shields.io/github/commit-activity/m/nntu-cs/ISD-2024?color=lime&style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/nntu-cs/ISD-2024?color=darkgreen&style=for-the-badge">
+
 | № |  название темы |  
 | -- | ------ |   
 |1	| Ведение учета клиентов турфирмы |  
